@@ -2,7 +2,7 @@
 /**
  * MultiPoint: A collection Points  
  */
-class MultiPoint extends Collection
+class MultiPoint extends getPHP_Collection
 {
   protected $geom_type = 'MultiPoint';
   
